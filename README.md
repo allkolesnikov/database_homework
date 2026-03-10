@@ -1,5 +1,4 @@
-1# Disaster_recovery_Keepalived_homework_01. GitLab Runner
-
+# Disaster_recovery_Keepalived_homework_01.
 **Кolesnikov Aleksandr**  
 
 ## Задание 1. СУБД
